@@ -8,7 +8,7 @@ Primeiras tarefas
 - Luis 
   * Uma receita de cupim na churrasqueia
   * Uma receita de frango assado (sem modo de preparo)
-  * Acrescentar modo de preparo na receita de salada assado do Michel
+  * Acrescentar modo de preparo na receita de salada de abacate do Michel
   
  #comandos Básicos
   * git clone https://github.com/daniloaluiz/receitas.git	(vai clonar o projeto num diretório do pc)

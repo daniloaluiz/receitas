@@ -20,10 +20,10 @@ Adicione a água quente e por último o fermento em pó
 Asse em forno com temperatura média por 40 minutos  
 Desenforme quente
 
-##COBERTURA:
+## COBERTURA:
 Coloque todos os ingredientes em uma panela e leve ao forno até que levante fervura  
 Despeje ainda quente em cima do bolo
 
-*Observação:* a receita pode ser preparada também no microondas em forma própria para esse forno  
+*Observação*: a receita pode ser preparada também no microondas em forma própria para esse forno  
 O tempo de espera é de 7 a 9 minutos na potência alta  
 Aguarde 20 minutos e desenforme

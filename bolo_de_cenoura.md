@@ -25,7 +25,7 @@ Asse em um forno preaquecido a 180° C por aproximadamente 40 minutos
 Despeje em uma tigela a manteiga, o chocolate em pó, o açúcar e o leite, depois misture  
 Leve a mistura ao fogo e continue misturando até obter uma consistência cremosa, depois despeje a calda por cima do bolo
 
-INFORMAÇÕES ADICIONAIS
+##INFORMAÇÕES ADICIONAIS
 Se o seu liquidificador for potente, o bolo todo pode ser feito nele. Você poderá seguir ao vídeo ou a receita escrita,  
-o resultado sairá perfeito dos 2 modos. Utilize cerca de 250 g de cenoura para o bolo não solar. Se desejar uma cobertura
+o resultado sairá perfeito dos 2 modos. Utilize cerca de 250 g de cenoura para o bolo não solar. Se desejar uma cobertura  
 mais leve, adicione 5 colheres de leite.

@@ -1,14 +1,14 @@
-INGREDIENTES
+## INGREDIENTES
 
-1 cupim de bom tamanho
-5 dentes de alho
-2 colheres de sal
-1 pitada de pimenta-do-reino preta
-5 colheres de vinagre branco
-500 g de bacon em fatias
+- 1 cupim de bom tamanho
+- 5 dentes de alho
+- 2 colheres de sal
+- 1 pitada de pimenta-do-reino preta
+- 5 colheres de vinagre branco
+- 500 g de bacon em fatias
 
  
-MODO DE PREPARO
+## MODO DE PREPARO
 1. Limpe a gordura em excesso
 2. Faça furos largos e profundos no cupim e reserve
 3. Amasse o alho juntamente com os outros ingredientes
